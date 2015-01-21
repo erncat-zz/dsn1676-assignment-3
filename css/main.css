@@ -15,6 +15,12 @@ html {
 *, *:before, *:after {
     box-sizing: inherit;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .stars {
     background-color:  black;
     background-image: url(../img/stars.svg);
